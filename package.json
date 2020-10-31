@@ -1,6 +1,6 @@
 {
-  "name": "felfire-run",
-  "description": "Function to run commands with Felfire",
+  "name": "@nicolascava/felfire-run",
+  "description": "[UNMAINTAINED] Function to run commands with Felfire",
   "version": "1.0.0",
   "devDependencies": {
     "babel-cli": "^6.26.0",
